@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\DBD_stats\DBD_stats\bin\Debug\DBD_stats.exe.config
+C:\Users\User\source\repos\DBD_stats\DBD_stats\bin\Debug\DBD_stats.exe
+C:\Users\User\source\repos\DBD_stats\DBD_stats\bin\Debug\DBD_stats.pdb
+C:\Users\User\source\repos\DBD_stats\DBD_stats\bin\Debug\DBD_stats.xml
+C:\Users\User\source\repos\DBD_stats\DBD_stats\obj\Debug\DBD_stats.vbprojAssemblyReference.cache
+C:\Users\User\source\repos\DBD_stats\DBD_stats\obj\Debug\DBD_stats.dbdStatsFRM.resources
+C:\Users\User\source\repos\DBD_stats\DBD_stats\obj\Debug\DBD_stats.Resources.resources
+C:\Users\User\source\repos\DBD_stats\DBD_stats\obj\Debug\DBD_stats.vbproj.GenerateResource.cache
+C:\Users\User\source\repos\DBD_stats\DBD_stats\obj\Debug\DBD_stats.exe
+C:\Users\User\source\repos\DBD_stats\DBD_stats\obj\Debug\DBD_stats.xml
+C:\Users\User\source\repos\DBD_stats\DBD_stats\obj\Debug\DBD_stats.pdb
